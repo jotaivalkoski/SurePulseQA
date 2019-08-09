@@ -1,0 +1,15 @@
+Sample 013 Parameters:
+Length: 0.2495 inches
+Diameter: 0.249 inches
+
+Optional Parameters:
+Density: 0.102
+Young’s Modulus: 10.0 psi*10^6
+Heat Capacity: 0.2 Btu/Lb/F
+
+Additional Parameters:
+Material: 7075T6
+Pressure: 36
+Striker: 12
+Speed: 69.63
+Pulse Shaper: X
