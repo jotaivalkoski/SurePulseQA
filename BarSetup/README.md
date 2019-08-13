@@ -17,7 +17,7 @@ __Incident Bar:__
 - Diameter: 0.5 inches
 - Yield: 300.0 ksi
 - Young’s Modulus: 29.3165 psi * 10^6
-- Speed Limit: (calculated)
+- Speed Limit: (it should get auto-calculated to 332.391)
 - Length: 72.0 inches
 - Strain Gauge: 36 inches to sample
 
