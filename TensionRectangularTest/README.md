@@ -1,5 +1,6 @@
 # Tension Rectangular Testing QA 
 *Note: requires Windows to run*
+
 Create a new Tension Sample in the new sample creation menu. The sample parameters are as pictured.
 ![Sample Paramters](images/sample_parameters.png)
 
@@ -13,6 +14,7 @@ Load the data in data/A01/20190624-A01-32in-33fps.txt and select the first pulse
 The tension test involves DIC data, this is computationally expensive.
 Enter DIC mode here:
 ![Image processing](images/Load_process_images.png)
+
 Load all images in `data/A01`, and use a frame rate of 200000.
 
 Enter the Digital Image Correlation tab.
