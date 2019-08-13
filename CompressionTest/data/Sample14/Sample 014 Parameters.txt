@@ -6,14 +6,11 @@ Optional Parameters:
 Density: 0.102
 Young’s Modulus: 10.0 psi*10^6
 Heat Capacity: 0.2 Btu/Lb/F
-
-Striker: 
-Length:12
-Speed: 70.59
-Pulse Shaper: X
-Young’s Modulus: 28.0 psi*10^6
-Diameter:.5
+Striker Bar Length: 12
+Striker Bar Speed: 70.59
 
 Additional Parameters:
+Material: 7075T6
 Pressure: 36
+Pulse Shaper: X
 
