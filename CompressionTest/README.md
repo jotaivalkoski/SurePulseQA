@@ -17,11 +17,11 @@ Open trim data and start trimming the Incident bar data. This data needs to be z
 ![Zero data](images/apply_zero_modifier.png)
 
 Apply a 600KHz filter and select the incident pulse.
-![Select Incident]
+![Select Incident](images/apply_zero_modifier.png)
 
 Proceed similarly for the reflected and transmitted pulse.
-(images/apply_zero_modifier_reflected.png)
-(images/apply_zero_modifier_transmitted.png)
+![Select Reflected](images/apply_zero_modifier_reflected.png)
+![Select Transmitted](images/apply_zero_modifier_transmitted.png)
 
 Save sample into a QA folder.
 
