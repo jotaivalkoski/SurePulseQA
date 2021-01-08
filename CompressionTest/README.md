@@ -10,7 +10,7 @@ Choose the correct bar setup from the QA.
 ![Bar Setup](images/choose_bar_setup.png)
 
 Load and parse the data file `data/20160112-014.txt`. Correctly label the time, incident bar voltage column, and transmission bar voltage column.
-![Process file](images/load_and_process.png)
+![Process file](images/load_and_process1.png)
 
 Open trim data and start trimming the Incident bar data. This data needs to be zeroed:
 
