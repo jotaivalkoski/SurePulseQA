@@ -38,7 +38,7 @@ __Transmission Bar:__
 The strain gauge view should look something like 
 ![Strain Gauge](images/StrainGaugeView.png)
 The bar view should look something like 
-![Bar Setup](images/IncidentBarView.png)
+![Bar Setup](images/IncidentBarView1.png)
 
 # Tension bar setup
 
