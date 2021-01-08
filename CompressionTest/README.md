@@ -25,6 +25,8 @@ Proceed similarly for the reflected and transmitted pulse.
 
 Save sample into a QA folder.
 
+Proceed to "Sample Information Table" tab and click "Analyze Results": button
+
 The expected result should be something like 
 ![Expected Result](images/expected_result.png)
 
