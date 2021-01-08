@@ -3,6 +3,10 @@ Enter these bars and the strain gauge into the SurePulse interface.
 ![Enter Info here](images/WhereToEnterBarSetups.png)
 ## Compression bar setup
 
+Call this bar setup QACompressionSetup
+
+Call the Strain gauge QACompressionGauge
+
 __Strain Gauge: (Used by both bars)__
 
 - Resistance: 120.0 Ohm
