@@ -25,10 +25,14 @@ Proceed similarly for the reflected and transmitted pulse.
 
 Save sample into a QA folder.
 
-Proceed to "Sample Information Table" tab and click "Analyze Results": button
+Proceed to "Sample Information Table" tab and click "Analyze Results" button
+
+Select the sample in the directory and click "Add Selected Sample(s)"
+
+Open the "charting" tab and select "stress vs strain"
 
 The expected result should be something like 
-![Expected Result](images/expected_result.png)
+![Expected Result](images/expected_result1.png)
 
 Repeat for Samples 13 and 15 as well. You should get a cluster of three samples.
 
@@ -40,7 +44,7 @@ One feature of Sure Pulse is the ability to downsample data to improve processin
 
 Reduce the data size to 500 samples.
 
-![Reduced Sample 14 ](images/Reduced_14.png)
+![Reduced Sample 14 ](images/Reduced_14_1.png)
 
 ## Global filters
 Apply a global filter on load to the sample.
@@ -49,7 +53,7 @@ Apply a global filter on load to the sample.
 
 Getting results like.
 
-![Globally filtered 14](images/globally_filtered_14.png)
+![Globally filtered 14](images/globally_filtered_14_1.png)
 
 ## Trim adjustment
 
